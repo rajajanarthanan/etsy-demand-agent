@@ -1,0 +1,271 @@
+{
+  "source": {
+    "harvest_rows": 864,
+    "unique_harvest": 406,
+    "products": 406,
+    "shops": 360
+  },
+  "scoring_notes": "market_score weights: bestseller rank, badges, reviews_last_30d (heavy), reviews_last_90d, light lifetime reviews, shop sales. Exact unit sales are not public.",
+  "us": {
+    "listing_count": 406,
+    "product_types": [
+      {
+        "category": "other_wood",
+        "noise_points": 6373.43,
+        "listing_count": 180,
+        "reviews_last_30d_sum": 515,
+        "median_price": 37.5,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Wood Rock Cairn Sculpture: Calming Decor for Home or Office Gift. Set of 7 Assorted Urban Reclaimed Hardwoods.",
+            "url": "https://www.etsy.com/listing/742928408/wood-rock-cairn-sculpture-calming-decor",
+            "price": 55.0,
+            "rank": 19,
+            "market_score": 51.63,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          }
+        ]
+      },
+      {
+        "category": "cutting_board",
+        "noise_points": 2549.75,
+        "listing_count": 63,
+        "reviews_last_30d_sum": 186,
+        "median_price": 45.0,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Kiln-Dried Teak Slices: DIY Coasters, Trivets, Cutting Boards (4-20 inch)",
+            "url": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+            "price": 12.0,
+            "rank": 2,
+            "market_score": 58.33,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          }
+        ]
+      },
+      {
+        "category": "shelves_hooks",
+        "noise_points": 1177.06,
+        "listing_count": 33,
+        "reviews_last_30d_sum": 95,
+        "median_price": 67.2,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Solid Wood Piano Coat Rack Shelf, Floating Shelf with Hooks, Modern Entryway Mudroom Organizer",
+            "url": "https://www.etsy.com/listing/4380280372/solid-wood-piano-coat-rack-with-shelf",
+            "price": 74.2,
+            "rank": 10,
+            "market_score": 53.14,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          }
+        ]
+      }
+    ],
+    "top_listings": [
+      {
+        "country": "us",
+        "listing_id": "1493842931",
+        "title": "Domestic Variety Pack 5 Walnut, 5 Maple and 5 Cherry Boards - 3/4\" x 2\" (15Pcs)",
+        "url": "https://www.etsy.com/listing/1493842931/domestic-variety-pack-5-walnut-5-maple",
+        "category": "other_wood",
+        "price": 29.99,
+        "currency": "USD",
+        "rank": 1,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 259,
+        "shop_sales": 8575,
+        "market_score": 61.04,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1793463417",
+        "title": "XL Walnut or Maple Cutting Board: Juice Groove, Handles, Rubber Feet - USA Made",
+        "url": "https://www.etsy.com/listing/1793463417/xl-walnut-or-maple-cutting-board-juice",
+        "category": "cutting_board",
+        "price": 142.49,
+        "currency": "USD",
+        "rank": 2,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 41,
+        "shop_sales": 21060,
+        "market_score": 60.79,
+        "makeable": true
+      }
+    ]
+  },
+  "ca": {
+    "listing_count": 0,
+    "note": "Empty in this run \u2014 agent and UI must not invent CA signal."
+  },
+  "wave1_makeable_shortlist": [
+    {
+      "category": "other_wood",
+      "combined_noise": 6373.43,
+      "us_noise": 6373.43,
+      "ca_noise": null,
+      "us_median_price": 37.5,
+      "ca_median_price": null,
+      "us_reviews_30d": 515,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Wood Rock Cairn Sculpture: Calming Decor for Home or Office Gift. Set of 7 Assorted Urban Reclaimed Hardwoods.",
+        "url": "https://www.etsy.com/listing/742928408/wood-rock-cairn-sculpture-calming-decor",
+        "price": 55.0,
+        "rank": 19,
+        "market_score": 51.63,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "cutting_board",
+      "combined_noise": 2549.75,
+      "us_noise": 2549.75,
+      "ca_noise": null,
+      "us_median_price": 45.0,
+      "ca_median_price": null,
+      "us_reviews_30d": 186,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Kiln-Dried Teak Slices: DIY Coasters, Trivets, Cutting Boards (4-20 inch)",
+        "url": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+        "price": 12.0,
+        "rank": 2,
+        "market_score": 58.33,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "shelves_hooks",
+      "combined_noise": 1177.06,
+      "us_noise": 1177.06,
+      "ca_noise": null,
+      "us_median_price": 67.2,
+      "ca_median_price": null,
+      "us_reviews_30d": 95,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Solid Wood Piano Coat Rack Shelf, Floating Shelf with Hooks, Modern Entryway Mudroom Organizer",
+        "url": "https://www.etsy.com/listing/4380280372/solid-wood-piano-coat-rack-with-shelf",
+        "price": 74.2,
+        "rank": 10,
+        "market_score": 53.14,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "bowls_trays",
+      "combined_noise": 928.91,
+      "us_noise": 928.91,
+      "ca_noise": null,
+      "us_median_price": 36.45,
+      "ca_median_price": null,
+      "us_reviews_30d": 66,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Rustic Rectangular Vintage Wooden Riser, Farmhouse Decor, Kitchen Stand, Plant Stand, Scandinavian Bathroom Vanity Stand",
+        "url": "https://www.etsy.com/listing/1866444908/rustic-rectangular-vintage-wooden-riser",
+        "price": 57.9,
+        "rank": 6,
+        "market_score": 55.33,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    }
+  ],
+  "seller_intel": {
+    "products_with_ships_from": 39,
+    "shops_with_location": 346,
+    "ships_from_top": [
+      {
+        "origin": "California",
+        "listings": 15
+      },
+      {
+        "origin": "New Jersey",
+        "listings": 3
+      },
+      {
+        "origin": "Texas",
+        "listings": 3
+      },
+      {
+        "origin": "New York",
+        "listings": 2
+      },
+      {
+        "origin": "Florida",
+        "listings": 2
+      },
+      {
+        "origin": "Illinois",
+        "listings": 2
+      },
+      {
+        "origin": "Ohio",
+        "listings": 1
+      },
+      {
+        "origin": "Utah within 48 hours. Standard delivery takes 4\u20136 days.",
+        "listings": 1
+      },
+      {
+        "origin": "Arizona with love \ud83d\udc8c \u2014 carefully packaged and trackable for peace of mind.",
+        "listings": 1
+      },
+      {
+        "origin": "Utah within 48 hours",
+        "listings": 1
+      },
+      {
+        "origin": "Chattanooga, TN with tracking",
+        "listings": 1
+      },
+      {
+        "origin": "Toledo Ohio**",
+        "listings": 1
+      },
+      {
+        "origin": "Maryland",
+        "listings": 1
+      },
+      {
+        "origin": "Pennsylvania",
+        "listings": 1
+      },
+      {
+        "origin": "North Carolina",
+        "listings": 1
+      },
+      {
+        "origin": "Oklahoma",
+        "listings": 1
+      },
+      {
+        "origin": "the USA \u2022 Free shipping \u2022 No import fees for U.S. customers",
+        "listings": 1
+      },
+      {
+        "origin": "Colorado",
+        "listings": 1
+      }
+    ]
+  }
+}

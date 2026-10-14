@@ -1,0 +1,33 @@
+{
+  "rule_version": "2026-10-14",
+  "retrieved_at": "2026-10-14",
+  "verification_status": "assumption",
+  "sources": [],
+  "defaults": {
+    "base_currency": "INR",
+    "shipping_mode": "DDP",
+    "marketplace": "etsy",
+    "seller_country": "IN",
+    "has_gstin": true,
+    "has_compliant_pan": true,
+    "etsy_charges_gst_on_fees": true,
+    "gst_on_fees_is_input_credit": true,
+    "listing_currency_differs_from_payment": true,
+    "apply_currency_conversion_fee": true,
+    "apply_offsite_ads": false,
+    "shop_trailing_365d_sales_usd": 0,
+    "amortize_listing_fee_per_sale": true,
+    "returns_allowance_rate": 0.03,
+    "damage_allowance_rate": 0.01,
+    "advertising_rate": 0.05,
+    "settlement_charge_flat_inr": 0,
+    "settlement_charge_rate": 0,
+    "export_handling_inr": 0,
+    "insurance_rate_of_cif": 0.01,
+    "customs_value_basis": "cif_cost"
+  },
+  "notes": [
+    "Returns, damage, advertising, settlement, export handling, and insurance rates above are operator assumptions — not published marketplace or customs rates. They are labelled as assumptions in every audit trail.",
+    "International freight, clearance, and DDP service charges must be supplied by the user from a carrier/quote; the engine never invents shipping quotes."
+  ]
+}

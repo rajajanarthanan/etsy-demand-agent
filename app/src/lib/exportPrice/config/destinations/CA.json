@@ -1,0 +1,46 @@
+{
+  "destination": "CA",
+  "name": "Canada",
+  "currency": "CAD",
+  "shipping_mode_required": "DDP",
+  "rule_version": "2026-10-14-provisional",
+  "retrieved_at": "2026-10-14",
+  "verification_status": "provisional",
+  "sources": [
+    {
+      "title": "Canada Border Services Agency — Duties and taxes on imported goods",
+      "url": "https://www.cbsa-asfc.gc.ca/import/courier/duty-taxe-eng.html",
+      "retrieved_at": "2026-10-14",
+      "notes": "CBSA duties/taxes overview. Confirm current thresholds and rates before relying on a quote."
+    },
+    {
+      "title": "Canadian Customs Tariff (CBSA)",
+      "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/menu-eng.html",
+      "retrieved_at": "2026-10-14",
+      "notes": "Official tariff schedule lookup by classification."
+    }
+  ],
+  "import_taxes": {
+    "type": "gst_hst_pst",
+    "collected_by": "varies",
+    "default_rate": null,
+    "notes": "GST/HST (and sometimes PST) may apply on importation. Etsy may collect certain Canadian taxes on behalf of sellers — verify per order path and avoid double-counting."
+  },
+  "duty": {
+    "requires_hs_code": true,
+    "default_ad_valorem_rate": null,
+    "additional_tariffs": [],
+    "notes": "No invented duty rate. Supply a verified CBSA tariff rate for the HS code."
+  },
+  "clearance_and_ddp": {
+    "clearance_fee_default": null,
+    "ddp_service_default": null,
+    "notes": "Requires carrier/broker quote."
+  },
+  "human_approval_required_when": [
+    "hs_code_uncertain",
+    "duty_rate_unverified",
+    "freight_unverified",
+    "material_compliance_uncertain"
+  ]
+}

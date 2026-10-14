@@ -1,0 +1,137 @@
+{
+  "scraped_at": "2026-10-11",
+  "market": "Etsy US locale / USD",
+  "keywords": [
+    "teak",
+    "acacia",
+    "hardwood",
+    "mahogany",
+    "rubber wood"
+  ],
+  "total_listings": 240,
+  "wood_listings": 231,
+  "category_counts": {
+    "cutting_board": 43,
+    "bowls_trays": 10,
+    "kitchen_utensils": 11,
+    "table_furniture": 6,
+    "door_divider": 6,
+    "slab_lumber": 25,
+    "decor_carved": 16,
+    "frames": 6,
+    "shelves_hooks": 21,
+    "other_wood_product": 82,
+    "handles_hardware": 4,
+    "coasters_slices": 1
+  },
+  "ranked_ops": [
+    {
+      "score": 241,
+      "category": "other_wood_product",
+      "n": 82,
+      "bestsellers": 52,
+      "median_usd": 32.54,
+      "teak_acacia_hits": 16,
+      "india_flagged": 0
+    },
+    {
+      "score": 197,
+      "category": "cutting_board",
+      "n": 43,
+      "bestsellers": 31,
+      "median_usd": 45.0,
+      "teak_acacia_hits": 19,
+      "india_flagged": 0
+    },
+    {
+      "score": 116,
+      "category": "slab_lumber",
+      "n": 25,
+      "bestsellers": 16,
+      "median_usd": 55.99,
+      "teak_acacia_hits": 8,
+      "india_flagged": 0
+    },
+    {
+      "score": 104,
+      "category": "kitchen_utensils",
+      "n": 11,
+      "bestsellers": 10,
+      "median_usd": 59.5,
+      "teak_acacia_hits": 9,
+      "india_flagged": 0
+    },
+    {
+      "score": 98,
+      "category": "shelves_hooks",
+      "n": 21,
+      "bestsellers": 6,
+      "median_usd": 53.84,
+      "teak_acacia_hits": 10,
+      "india_flagged": 0
+    },
+    {
+      "score": 89,
+      "category": "bowls_trays",
+      "n": 10,
+      "bestsellers": 9,
+      "median_usd": 41.03,
+      "teak_acacia_hits": 8,
+      "india_flagged": 0
+    },
+    {
+      "score": 71,
+      "category": "decor_carved",
+      "n": 16,
+      "bestsellers": 8,
+      "median_usd": 55.0,
+      "teak_acacia_hits": 7,
+      "india_flagged": 0
+    },
+    {
+      "score": 61,
+      "category": "frames",
+      "n": 6,
+      "bestsellers": 5,
+      "median_usd": 34.72,
+      "teak_acacia_hits": 5,
+      "india_flagged": 0
+    },
+    {
+      "score": 57,
+      "category": "table_furniture",
+      "n": 6,
+      "bestsellers": 4,
+      "median_usd": 87.74,
+      "teak_acacia_hits": 4,
+      "india_flagged": 0
+    },
+    {
+      "score": 56,
+      "category": "coasters_slices",
+      "n": 1,
+      "bestsellers": 0,
+      "median_usd": 28.0,
+      "teak_acacia_hits": 0,
+      "india_flagged": 0
+    },
+    {
+      "score": 52,
+      "category": "door_divider",
+      "n": 6,
+      "bestsellers": 3,
+      "median_usd": 190.0,
+      "teak_acacia_hits": 4,
+      "india_flagged": 0
+    },
+    {
+      "score": 47,
+      "category": "handles_hardware",
+      "n": 4,
+      "bestsellers": 2,
+      "median_usd": 37.5,
+      "teak_acacia_hits": 2,
+      "india_flagged": 0
+    }
+  ]
+}

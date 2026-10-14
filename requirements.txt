@@ -1,0 +1,2 @@
+# Scrape pipeline (Demand Desk may add its own deps later)
+-r browser_scrape/requirements.txt

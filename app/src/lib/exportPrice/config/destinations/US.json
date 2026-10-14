@@ -1,0 +1,46 @@
+{
+  "destination": "US",
+  "name": "United States",
+  "currency": "USD",
+  "shipping_mode_required": "DDP",
+  "rule_version": "2026-10-14-provisional",
+  "retrieved_at": "2026-10-14",
+  "verification_status": "provisional",
+  "sources": [
+    {
+      "title": "CBP — Basic Importing and Exporting",
+      "url": "https://www.cbp.gov/trade/basic-import-export",
+      "retrieved_at": "2026-10-14",
+      "notes": "General CBP import framework. Specific HTS duty rates must be looked up per classification."
+    },
+    {
+      "title": "HTS Search (USITC)",
+      "url": "https://hts.usitc.gov/",
+      "retrieved_at": "2026-10-14",
+      "notes": "Official HTS duty lookup. Do not invent rates — user/broker must confirm HS code and duty."
+    }
+  ],
+  "import_taxes": {
+    "type": "sales_tax",
+    "collected_by": "marketplace_or_state",
+    "default_rate": null,
+    "notes": "Etsy typically collects and remits US sales tax from buyers in applicable states. Do not double-count sales tax as a seller DDP import tax unless you have evidence you pay it yourself."
+  },
+  "duty": {
+    "requires_hs_code": true,
+    "default_ad_valorem_rate": null,
+    "additional_tariffs": [],
+    "notes": "No default duty rate is published here. Wood housewares rates depend on HTS classification. Enter a verified rate or leave blank for a provisional result."
+  },
+  "clearance_and_ddp": {
+    "clearance_fee_default": null,
+    "ddp_service_default": null,
+    "notes": "Clearance and DDP service charges require a carrier/broker quote."
+  },
+  "human_approval_required_when": [
+    "hs_code_uncertain",
+    "duty_rate_unverified",
+    "freight_unverified",
+    "material_compliance_uncertain"
+  ]
+}

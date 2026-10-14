@@ -1,0 +1,27 @@
+{
+  "jurisdiction": "IN",
+  "rule_version": "etsy-help-india-tcs-tds",
+  "effective_from": "2023-01-01",
+  "effective_to": null,
+  "retrieved_at": "2026-10-14",
+  "verification_status": "verified",
+  "sources": [
+    {
+      "title": "What Does Etsy Withhold and Remit to Indian Tax Authorities?",
+      "url": "https://help.etsy.com/hc/en-us/articles/11817502933783-What-Does-Etsy-Withhold-and-Remit-to-Indian-Tax-Authorities",
+      "retrieved_at": "2026-10-14",
+      "notes": "TCS 0.5% on India Payments (RazorPay) and Etsy Payments (Payoneer). TDS 0.1% with PAN or GSTIN; otherwise up to 5%."
+    }
+  ],
+  "withholding": {
+    "tcs_rate": 0.005,
+    "tcs_classification": "recoverable_tax_credit_cash_withholding",
+    "tds_rate_with_pan_or_gstin": 0.001,
+    "tds_rate_without_pan_or_gstin": 0.05,
+    "tds_classification": "recoverable_tax_credit_cash_withholding"
+  },
+  "notes": [
+    "TCS and TDS reduce cash payout but are prepaid tax credits (not operating expenses) when correctly attributed to the seller's GSTIN/PAN.",
+    "Engine default assumes active GSTIN + tax-compliant PAN (0.1% TDS)."
+  ]
+}

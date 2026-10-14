@@ -1,0 +1,42 @@
+{
+  "destination": "SA",
+  "name": "Saudi Arabia",
+  "currency": "SAR",
+  "shipping_mode_required": "DDP",
+  "rule_version": "2026-10-14-provisional",
+  "retrieved_at": "2026-10-14",
+  "verification_status": "provisional",
+  "sources": [
+    {
+      "title": "ZATCA — Zakat, Tax and Customs Authority",
+      "url": "https://zatca.gov.sa/",
+      "retrieved_at": "2026-10-14",
+      "notes": "Official Saudi tax and customs authority. Confirm customs duty, VAT, and clearance rules per shipment."
+    }
+  ],
+  "import_taxes": {
+    "type": "vat",
+    "collected_by": "importer_of_record",
+    "default_rate": 0.15,
+    "default_rate_verification": "provisional",
+    "notes": "Saudi VAT standard rate is commonly published as 15%; treated as provisional until confirmed for the import path and whether marketplace collects any portion."
+  },
+  "duty": {
+    "requires_hs_code": true,
+    "default_ad_valorem_rate": null,
+    "additional_tariffs": [],
+    "notes": "No invented customs duty. Enter a verified Saudi tariff rate for the HS code."
+  },
+  "clearance_and_ddp": {
+    "clearance_fee_default": null,
+    "ddp_service_default": null,
+    "notes": "Requires carrier/broker quote."
+  },
+  "human_approval_required_when": [
+    "hs_code_uncertain",
+    "duty_rate_unverified",
+    "vat_path_unverified",
+    "freight_unverified",
+    "material_compliance_uncertain"
+  ]
+}

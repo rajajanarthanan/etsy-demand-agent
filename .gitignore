@@ -1,0 +1,52 @@
+# Secrets
+config.json
+.env
+.env.*
+data/desk-secrets.json
+data/sync_status.json
+data/memory/vectors.sqlite
+data/memory/vectors.sqlite-*
+data/memory/run_digest.toon
+
+# Demand Desk (Next.js)
+app/node_modules/
+app/.next/
+app/out/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Runtime / heavy local scrape artifacts (fixtures/ stay committed for demos)
+data/chrome_profile_*/
+data/chrome_proxy_ext_runtime/
+data/debug_*.html
+data/raw_*.html
+data/smoke_*.html
+data/*_stderr.log
+data/jobs.sqlite
+data/jobs.sqlite-*
+
+# Bulky scrape dumps — keep local; demos use fixtures/
+data/harvest_listings.csv
+data/product_details.jsonl
+data/shop_profiles.jsonl
+data/demand_listings.csv
+data/demand_summary.json
+
+# Local screenshot HTML helpers (PNG screenshots are committed)
+docs/screenshots/_preview/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+_readme_preview.html
+
+# Local logs
+data/*.log
+*.log

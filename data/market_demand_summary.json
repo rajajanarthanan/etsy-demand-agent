@@ -1,0 +1,1394 @@
+{
+  "source": {
+    "harvest_rows": 864,
+    "unique_harvest": 406,
+    "products": 406,
+    "shops": 360
+  },
+  "us": {
+    "listing_count": 406,
+    "product_types": [
+      {
+        "category": "other_wood",
+        "noise_points": 6373.43,
+        "listing_count": 180,
+        "reviews_last_30d_sum": 515,
+        "median_price": 37.5,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Wood Rock Cairn Sculpture: Calming Decor for Home or Office Gift. Set of 7 Assorted Urban Reclaimed Hardwoods.",
+            "url": "https://www.etsy.com/listing/742928408/wood-rock-cairn-sculpture-calming-decor",
+            "price": 55.0,
+            "rank": 19,
+            "market_score": 51.63,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Real Leaf Folding Wallet",
+            "url": "https://www.etsy.com/listing/1175781013/real-leaf-folding-wallet",
+            "price": 60.43,
+            "rank": 27,
+            "market_score": 39.69,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Kravet Shetland Plaid in teal wool by Mulberry for Kravet-cover(s)",
+            "url": "https://www.etsy.com/listing/1620359598/kravet-shetland-plaid-in-teal-wool-by",
+            "price": 100.0,
+            "rank": 23,
+            "market_score": 36.68,
+            "reviews_last_30d": 1,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Set of 2 Wood Carved Wading Birds, Modern Coastal Shorebird Statues, Beach House Rustic Tabletop Figurine, Coastal Cottage Home Decoration",
+            "url": "https://www.etsy.com/listing/4519426263/set-of-2-wood-carved-wading-birds-modern",
+            "price": 39.99,
+            "rank": 37,
+            "market_score": 34.9,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Classic Mini Plant Stand, Mid-century Modern, Indoor Solid Teak Wood Handmade Home Decor, Jewelry Dish, Catch All",
+            "url": "https://www.etsy.com/listing/4412412193/classic-mini-plant-stand-mid-century",
+            "price": 29.67,
+            "rank": 25,
+            "market_score": 23.03,
+            "reviews_last_30d": 0,
+            "reviews_last_90d": 4
+          }
+        ]
+      },
+      {
+        "category": "cutting_board",
+        "noise_points": 2549.75,
+        "listing_count": 63,
+        "reviews_last_30d_sum": 186,
+        "median_price": 45.0,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Kiln-Dried Teak Slices: DIY Coasters, Trivets, Cutting Boards (4-20 inch)",
+            "url": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+            "price": 12.0,
+            "rank": 2,
+            "market_score": 58.33,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Heritage Board, Chef Grade American Hard Maple End Grain Large Cutting Butcher Block",
+            "url": "https://www.etsy.com/listing/4466475071/heritage-board-chef-grade-american-hard",
+            "price": 161.59,
+            "rank": 10,
+            "market_score": 48.67,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Walnut End Grain Cutting Board, Handmade Butcher Block, Thick Wooden Chopping Board, Professional Chef Board, Premium Kitchen Gift",
+            "url": "https://www.etsy.com/listing/4470274661/walnut-end-grain-cutting-board-handmade",
+            "price": 99.55,
+            "rank": 12,
+            "market_score": 40.73,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Wooden centerpiece serving tray, ottoman coffee table tray, charcuterie board, Mother's day gift for mom, cheese board, wood serving tray",
+            "url": "https://www.etsy.com/listing/1267675948/wooden-centerpiece-serving-tray-ottoman",
+            "price": 49.99,
+            "rank": 45,
+            "market_score": 34.64,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "12 Cutting Board Plans Bundle | 3D Illusion End Grain Patterns | Geometric Woodworking Templates | DIY Wood Cutting Board PDF Plans",
+            "url": "https://www.etsy.com/listing/4520780280/12-cutting-board-plans-bundle-3d",
+            "price": 20.11,
+            "rank": 95,
+            "market_score": 31.56,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          }
+        ]
+      },
+      {
+        "category": "shelves_hooks",
+        "noise_points": 1177.06,
+        "listing_count": 33,
+        "reviews_last_30d_sum": 95,
+        "median_price": 67.2,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Solid Wood Piano Coat Rack Shelf, Floating Shelf with Hooks, Modern Entryway Mudroom Organizer",
+            "url": "https://www.etsy.com/listing/4380280372/solid-wood-piano-coat-rack-with-shelf",
+            "price": 74.2,
+            "rank": 10,
+            "market_score": 53.14,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Handcrafted Solid Walnut Piano Coat Rack, Flip Down Hooks, Wood Home Decor Accent Gifts",
+            "url": "https://www.etsy.com/listing/4559909602/handcrafted-solid-walnut-piano-coat-rack",
+            "price": 53.84,
+            "rank": 18,
+            "market_score": 48.77,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Mid Century Bookcase. Modern Bookcase. Industrial Bookcase. Small Bookcase. Book Stand. Wood Bookcase. Kids Book Shelf.",
+            "url": "https://www.etsy.com/listing/4523072504/mid-century-bookcase-modern-bookcase",
+            "price": 89.1,
+            "rank": 2,
+            "market_score": 47.16,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Modern Entryway Organizer | Solid Wood Wall Rack with Hooks | Shoe Storage | Handmade Coat Rack | Japandi Storage",
+            "url": "https://www.etsy.com/listing/4477217581/modern-entryway-organizer-solid-wood",
+            "price": 149.99,
+            "rank": 28,
+            "market_score": 46.59,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Meridian 5 \u2014 Mid-Century Modern Sapele Wood Coat Rack, Minimalist Entryway Organizer with 5 Hooks, Decorative Wall Storage",
+            "url": "https://www.etsy.com/listing/4441128816/mid-century-modern-sapele-wood-wall-hook",
+            "price": 74.99,
+            "rank": 18,
+            "market_score": 41.09,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          }
+        ]
+      },
+      {
+        "category": "bowls_trays",
+        "noise_points": 928.91,
+        "listing_count": 24,
+        "reviews_last_30d_sum": 66,
+        "median_price": 36.45,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Rustic Rectangular Vintage Wooden Riser, Farmhouse Decor, Kitchen Stand, Plant Stand, Scandinavian Bathroom Vanity Stand",
+            "url": "https://www.etsy.com/listing/1866444908/rustic-rectangular-vintage-wooden-riser",
+            "price": 57.9,
+            "rank": 6,
+            "market_score": 55.33,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Custom Teak Shower Tray | Self-Draining Soap Dish",
+            "url": "https://www.etsy.com/listing/1267819195/custom-teak-shower-tray-self-draining",
+            "price": 45.0,
+            "rank": 3,
+            "market_score": 52.31,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "LARGE Gamal Wood Root Bowl - Handmade Indonesian Natural Wood Home Decor",
+            "url": "https://www.etsy.com/listing/1709983236/large-gamal-wood-root-bowl-handmade",
+            "price": 44.95,
+            "rank": 58,
+            "market_score": 40.14,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "WOODEN RISERS | Tiered Tray Decor | Soap Display | Candle or Plant Stand | Kitchen | Farmhouse | Pedestal | Rustic | Wood Tray | Cupcake",
+            "url": "https://www.etsy.com/listing/4324567092/wooden-risers-tiered-tray-decor-soap",
+            "price": 7.65,
+            "rank": 60,
+            "market_score": 37.91,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Handmade Bamboo Tea Tray with Water Storage: Gongfu Tea Ceremony Board",
+            "url": "https://www.etsy.com/listing/4320319076/handmade-bamboo-tea-tray-with-water",
+            "price": 24.5,
+            "rank": 29,
+            "market_score": 34.23,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 4
+          }
+        ]
+      },
+      {
+        "category": "frames",
+        "noise_points": 779.55,
+        "listing_count": 23,
+        "reviews_last_30d_sum": 60,
+        "median_price": 30.89,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Solid Wood Picture Frame, Rustic Walnut Wood Teak Wood Photo Frame, Size from 4x6\" to 16x20\" , Hardwood Frame Anniversary Engagement Gift",
+            "url": "https://www.etsy.com/listing/1706547278/solid-wood-picture-frame-rustic-walnut",
+            "price": 29.9,
+            "rank": 16,
+            "market_score": 50.48,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Multi Opening 4x6 Photo Frame, Solid Wood Collage Frame for 2\u20134 Photos, Walnut Teak Beech | GATHER",
+            "url": "https://www.etsy.com/listing/1433862028/growth-hsh-multi-opening-4x6-photo-frame",
+            "price": 48.9,
+            "rank": 23,
+            "market_score": 39.99,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Photobooth Tripod Stand, Adjustable DSLR Camera Mount, Vintage Floor Lamp Base, Rustic Wedding Event Decor, Teak Wood Telescope Stand",
+            "url": "https://www.etsy.com/listing/4402907631/nautical-teak-wood-tripod-stand",
+            "price": 106.89,
+            "rank": 11,
+            "market_score": 32.11,
+            "reviews_last_30d": 1,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "1934 \"Still Life with Oranges\" Still Life Framed Art in Teakwood Frame Giclee Fine Print Modernist Danish Interior Fruit Mat Wall Art 11x14",
+            "url": "https://www.etsy.com/listing/4483609986/1934-still-life-with-oranges-still-life",
+            "price": 157.0,
+            "rank": 19,
+            "market_score": 32.1,
+            "reviews_last_30d": 1,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Personalized Teak & Walnut Solid Wood Photo Frame - Custom Gift | Tabletop Display, Wall Hangng Easily | 2x3, 3x4, 4x4, 3.5x5",
+            "url": "https://www.etsy.com/listing/1817757897/mini-personalized-teak-black-walnut-wood",
+            "price": 21.17,
+            "rank": 40,
+            "market_score": 22.29,
+            "reviews_last_30d": 1,
+            "reviews_last_90d": 2
+          }
+        ]
+      },
+      {
+        "category": "kitchen_utensils",
+        "noise_points": 410.46,
+        "listing_count": 10,
+        "reviews_last_30d_sum": 28,
+        "median_price": 51.0,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Walnut Wood Kitchen Utensil Set, Handcrafted Natural Cooking Tool, Nontoxic, Plastic-Free, Safe for Nonstick Cookware, Kitchen Wedding Gift",
+            "url": "https://www.etsy.com/listing/4391906670/walnut-wood-kitchen-utensil-set",
+            "price": 12.99,
+            "rank": 17,
+            "market_score": 53.86,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Handmade Acacia Spoons Set of 8 | Personalized Kitchen Utensil Set with Spatula, 100% Food Safe Wooden Cooking Utensils | Bridal Shower Gift",
+            "url": "https://www.etsy.com/listing/4524659440/handmade-acacia-spoons-set-of-8",
+            "price": 73.8,
+            "rank": 3,
+            "market_score": 51.58,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Teak Wood Cooking Utensils Set: 10-Piece Spatulas & Spoons",
+            "url": "https://www.etsy.com/listing/1902813083/teak-wood-cooking-utensils-set-10-piece",
+            "price": 49.99,
+            "rank": 5,
+            "market_score": 47.58,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Teak Kitchen Utensil Set: Wooden Spoons, Spatulas, Ladle & Holder",
+            "url": "https://www.etsy.com/listing/1818688703/teak-kitchen-utensil-set-wooden-spoons",
+            "price": 59.99,
+            "rank": 7,
+            "market_score": 38.6,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Handmade Wooden Kitchen Utensil Set \u2013 10\u2011Piece Spatulas, Spoons Cooking Baking Serving Mixing \u2013 Perfect Christmas, Wedding & Couple Gift",
+            "url": "https://www.etsy.com/listing/4365391776/handmade-wooden-kitchen-utensil-set",
+            "price": 59.5,
+            "rank": 16,
+            "market_score": 37.46,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 4
+          }
+        ]
+      },
+      {
+        "category": "coasters_slices",
+        "noise_points": 127.52,
+        "listing_count": 3,
+        "reviews_last_30d_sum": 10,
+        "median_price": 39.95,
+        "makeable": true,
+        "examples": [
+          {
+            "title": "Rustic Wood Slices (11-12 inch): Wedding Centerpiece Set",
+            "url": "https://www.etsy.com/listing/295630253/rustic-wood-slices-11-12-inch-wedding",
+            "price": 36.0,
+            "rank": 16,
+            "market_score": 59.2,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Handcrafted Wood Epoxy Resin Coasters, Cedar Coasters, Stylish Drink Coasters, Full set of 6 with Holder",
+            "url": "https://www.etsy.com/listing/921767471/handcrafted-wood-epoxy-resin-coasters",
+            "price": 39.99,
+            "rank": 62,
+            "market_score": 39.8,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Japanese Matchbook Art Coasters: Handmade Wood Coaster Set",
+            "url": "https://www.etsy.com/listing/1602196658/japanese-matchbook-art-coasters-handmade",
+            "price": 39.95,
+            "rank": 69,
+            "market_score": 28.52,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 3
+          }
+        ]
+      },
+      {
+        "category": "slab_lumber",
+        "noise_points": 43.29,
+        "listing_count": 20,
+        "reviews_last_30d_sum": 57,
+        "median_price": 40.74,
+        "makeable": false,
+        "examples": [
+          {
+            "title": "Live Edge Teak Wood Hand Carved Large Bowl",
+            "url": "https://www.etsy.com/listing/784980945/live-edge-teak-wood-hand-carved-large",
+            "price": 79.0,
+            "rank": 6,
+            "market_score": 2.88,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Handcrafted Teak Root Side Table: Rustic Live Edge Accent Table, Holiday Decor Gifts",
+            "url": "https://www.etsy.com/listing/1841698511/handcrafted-teak-root-side-table-rustic",
+            "price": 129.49,
+            "rank": 1,
+            "market_score": 2.55,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Handcrafted Live Edge Floating Shelves | Rustic Shelves | Floating Wood Shelves for Kitchen | Book Shelves",
+            "url": "https://www.etsy.com/listing/4296915877/handcrafted-live-edge-floating-shelves",
+            "price": 103.2,
+            "rank": 22,
+            "market_score": 2.49,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Handmade Live Edge Cedar Wall Art with Black Frame: Rustic Modern Wood Wall Decor, Farmhouse Cabin Wall Hanging",
+            "url": "https://www.etsy.com/listing/1494789201/handmade-live-edge-cedar-wall-art-with",
+            "price": 48.99,
+            "rank": 9,
+            "market_score": 2.41,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Live Edge Olive Wood Floating Shelf, Custom Wood Shelves, Handmade Reclaimed Wooden, Rustic Bathroom Shelves with Bracket, Long Book Shelves",
+            "url": "https://www.etsy.com/listing/4525467570/live-edge-olive-wood-floating-shelf",
+            "price": 37.42,
+            "rank": 31,
+            "market_score": 2.34,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          }
+        ]
+      },
+      {
+        "category": "table_furniture",
+        "noise_points": 36.92,
+        "listing_count": 22,
+        "reviews_last_30d_sum": 61,
+        "median_price": 73.86,
+        "makeable": false,
+        "examples": [
+          {
+            "title": "Rustic Reclaimed Teak Stool: Round Wooden Seat, Handmade Solid Wood Bar / Counter Stool",
+            "url": "https://www.etsy.com/listing/1801114269/reclaimed-teak-wood-counter-stool-round",
+            "price": 159.2,
+            "rank": 10,
+            "market_score": 2.19,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Reclaimed Teakwood Console Table, Narrow Rustic Entryway Hall Table",
+            "url": "https://www.etsy.com/listing/4503599044/reclaimed-teakwood-console-table-narrow",
+            "price": 335.2,
+            "rank": 1,
+            "market_score": 2.01,
+            "reviews_last_30d": 1,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Solid Wood Photo Frame | 4x6 5x7 6x8 8x10in | Personalized Gifts | Black Walnut | Teak Picture | Table-top | Wall hanging | Home Decor |",
+            "url": "https://www.etsy.com/listing/1557062463/solid-wood-photo-frame-4x6-5x7-6x8-8x10",
+            "price": 35.0,
+            "rank": 21,
+            "market_score": 1.87,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Wooden Stepladder, Sage Green, Folding Kitchen Step Stool, Wood Ladder, Library Steps, Dining Chair, Plant Stand",
+            "url": "https://www.etsy.com/listing/1886578128/wooden-stepladder-sage-green-folding",
+            "price": 426.0,
+            "rank": 55,
+            "market_score": 1.14,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Walnut C Shape Side Table, Solid Wood Leg Rolling Laptop Desk",
+            "url": "https://www.etsy.com/listing/4542072916/walnut-c-shape-side-table-solid-wood-leg",
+            "price": 135.0,
+            "rank": 62,
+            "market_score": 1.07,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 3
+          }
+        ]
+      },
+      {
+        "category": "non_wood",
+        "noise_points": 33.91,
+        "listing_count": 21,
+        "reviews_last_30d_sum": 58,
+        "median_price": 30.0,
+        "makeable": false,
+        "examples": [
+          {
+            "title": "Personalized Tea Gift Box for Her-Tea Lover Gift Set-Self Care Gift Set-Birthday Gift Basket-Thank You Gift-Hygge Box-Christmas Gift for Mom",
+            "url": "https://www.etsy.com/listing/4536356244/personalized-tea-gift-box-for-her-tea",
+            "price": 19.99,
+            "rank": 21,
+            "market_score": 2.08,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Satin Crane Print Scarf, Elegant Women\u2019s Silk Feel Neck Shawl",
+            "url": "https://www.etsy.com/listing/4561683962/satin-crane-print-scarf-elegant-womens",
+            "price": 28.42,
+            "rank": 40,
+            "market_score": 1.88,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Koi Fish Runner Rug | Hand Tufted Tribal Hallway Kitchen Decor | Fish Motif Entryway carpet",
+            "url": "https://www.etsy.com/listing/4549172540/koi-fish-runner-rug-hand-tufted-tribal",
+            "price": 56.86,
+            "rank": 46,
+            "market_score": 1.8,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Teal Blue Velvet Kimono Robe, Floral Bird Print Dressing Gown, Luxury Japanese Style Robe",
+            "url": "https://www.etsy.com/listing/4552180279/teal-blue-velvet-kimono-robe-floral-bird",
+            "price": 51.0,
+            "rank": 35,
+            "market_score": 1.67,
+            "reviews_last_30d": 3,
+            "reviews_last_90d": 3
+          },
+          {
+            "title": "Handmade Ceramic Lady Tea Strainer , Whimsical Lounging Woman Tea Infuser, Loose Leaf Tea Filter with Cup Saucer, Unique Tea Lover Gift",
+            "url": "https://www.etsy.com/listing/4580775224/handmade-ceramic-lady-tea-strainer",
+            "price": 29.99,
+            "rank": 29,
+            "market_score": 0.77,
+            "reviews_last_30d": 0,
+            "reviews_last_90d": 0
+          }
+        ]
+      },
+      {
+        "category": "door_divider",
+        "noise_points": 10.22,
+        "listing_count": 6,
+        "reviews_last_30d_sum": 15,
+        "median_price": 48.8,
+        "makeable": false,
+        "examples": [
+          {
+            "title": "Hand-Carved Oriental Wooden Room Divider",
+            "url": "https://www.etsy.com/listing/4570682029/hand-carved-oriental-wooden-room-divider",
+            "price": 165.0,
+            "rank": 14,
+            "market_score": 2.63,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 5
+          },
+          {
+            "title": "Acacia Wood Bowls with Laser-Engraved Hobbit Door Lids \u2013 A Touch of the Shire for Your Table**",
+            "url": "https://www.etsy.com/listing/1799674598/acacia-wood-bowls-with-laser-engraved",
+            "price": 32.0,
+            "rank": 20,
+            "market_score": 2.46,
+            "reviews_last_30d": 4,
+            "reviews_last_90d": 4
+          },
+          {
+            "title": "Lanna Lotus Mandala Headboard | Hand-Carved Thai Teak Wood Art | 72\u201d King Size Bed Panel | Reclaimed Teak Floral Wall Decor | Boho Bedroom",
+            "url": "https://www.etsy.com/listing/4413615212/lanna-lotus-mandala-headboard-o-hand",
+            "price": 269.1,
+            "rank": 10,
+            "market_score": 1.63,
+            "reviews_last_30d": 1,
+            "reviews_last_90d": 2
+          },
+          {
+            "title": "Wooden Bathroom Wall Cabinet, Wall Mounted Medicine Cabinet, Rustic Bathroom Storage Cabinet,Wall Cabinet With Door,Carved Wood Wall Cabinet",
+            "url": "https://www.etsy.com/listing/4451593064/wooden-bathroom-wall-cabinet-wall",
+            "price": 65.6,
+            "rank": 94,
+            "market_score": 1.31,
+            "reviews_last_30d": 2,
+            "reviews_last_90d": 2
+          },
+          {
+            "title": "White Oak Blocks for DIY Projects, Air Dried Hardwood Door Stop Riser Block",
+            "url": "https://www.etsy.com/listing/1693602382/white-oak-blocks-for-diy-projects-air",
+            "price": 9.35,
+            "rank": 73,
+            "market_score": 0.64,
+            "reviews_last_30d": 0,
+            "reviews_last_90d": 1
+          }
+        ]
+      },
+      {
+        "category": "digital",
+        "noise_points": 1.15,
+        "listing_count": 1,
+        "reviews_last_30d_sum": 1,
+        "median_price": 4.83,
+        "makeable": false,
+        "examples": [
+          {
+            "title": "Acacia Vest Crochet Pattern (PDF Pattern NOT a physical product) English Language Only, easy pattern for vest, crochet top, beach cover up",
+            "url": "https://www.etsy.com/listing/1725353904/acacia-vest-crochet-pattern-pdf-pattern",
+            "price": 4.83,
+            "rank": 46,
+            "market_score": 1.15,
+            "reviews_last_30d": 1,
+            "reviews_last_90d": 1
+          }
+        ]
+      }
+    ],
+    "top_listings": [
+      {
+        "country": "us",
+        "listing_id": "1493842931",
+        "title": "Domestic Variety Pack 5 Walnut, 5 Maple and 5 Cherry Boards - 3/4\" x 2\" (15Pcs)",
+        "url": "https://www.etsy.com/listing/1493842931/domestic-variety-pack-5-walnut-5-maple",
+        "category": "other_wood",
+        "price": 29.99,
+        "currency": "USD",
+        "rank": 1,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 259,
+        "shop_sales": 8575,
+        "market_score": 61.04,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1793463417",
+        "title": "XL Walnut or Maple Cutting Board: Juice Groove, Handles, Rubber Feet - USA Made",
+        "url": "https://www.etsy.com/listing/1793463417/xl-walnut-or-maple-cutting-board-juice",
+        "category": "cutting_board",
+        "price": 142.49,
+        "currency": "USD",
+        "rank": 2,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 41,
+        "shop_sales": 21060,
+        "market_score": 60.79,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "741146341",
+        "title": "Matte Distressed Alder Mantel",
+        "url": "https://www.etsy.com/listing/741146341/matte-distressed-alder-mantel",
+        "category": "other_wood",
+        "price": 359.0,
+        "currency": "USD",
+        "rank": 3,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 0,
+        "shop_sales": 17385,
+        "market_score": 59.74,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "295630253",
+        "title": "Rustic Wood Slices (11-12 inch): Wedding Centerpiece Set",
+        "url": "https://www.etsy.com/listing/295630253/rustic-wood-slices-11-12-inch-wedding",
+        "category": "coasters_slices",
+        "price": 36.0,
+        "currency": "USD",
+        "rank": 16,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 571,
+        "shop_sales": 167486,
+        "market_score": 59.2,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4496898444",
+        "title": "Personalized Kitchen Gift, Acacia Cutting Board, Personalized Gifts for Couples, Bridal Shower Gift, Wedding Gift for New Couple, Home Gifts",
+        "url": "https://www.etsy.com/listing/4496898444/personalized-kitchen-gift-acacia-cutting",
+        "category": "cutting_board",
+        "price": 49.5,
+        "currency": "USD",
+        "rank": 8,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 6,
+        "shop_sales": 152325,
+        "market_score": 58.39,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4296923900",
+        "title": "Kiln-Dried Teak Slices: DIY Coasters, Trivets, Cutting Boards (4-20 inch)",
+        "url": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+        "category": "cutting_board",
+        "price": 12.0,
+        "currency": "USD",
+        "rank": 2,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 82,
+        "shop_sales": 785,
+        "market_score": 58.33,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4531972142",
+        "title": "Custom Acacia Valet Tray, Wooden Bedside Organizer Smart Watch Charging Docking Station",
+        "url": "https://www.etsy.com/listing/4531972142/custom-acacia-valet-tray-wooden-bedside",
+        "category": "bowls_trays",
+        "price": 35.9,
+        "currency": "USD",
+        "rank": 10,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 13,
+        "shop_sales": 168369,
+        "market_score": 57.71,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4474933168",
+        "title": "Solid Walnut Wood Custom Mechanical Keyboard Kit Tri-Mode RGB For Cherry MX Switches",
+        "url": "https://www.etsy.com/listing/4474933168/solid-walnut-wood-custom-mechanical",
+        "category": "other_wood",
+        "price": 169.0,
+        "currency": "USD",
+        "rank": 6,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 35,
+        "shop_sales": 940,
+        "market_score": 57.29,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4315166576",
+        "title": "Non-Toxic Acacia Wood Cutting Board Set | FSC Certified 3-Piece Kitchen Boards \u2013 Eco-Friendly, Plastic-Free, Mineral Oil Free Gift",
+        "url": "https://www.etsy.com/listing/4315166576/non-toxic-acacia-wood-cutting-board-set",
+        "category": "cutting_board",
+        "price": 39.95,
+        "currency": "USD",
+        "rank": 5,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 92,
+        "shop_sales": 6114,
+        "market_score": 56.65,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4478633305",
+        "title": "Personalized Acacia Wood Cutting Board Resin River, Custom Engraved Couple Names Board, Wedding Gift, Bridal Shower, Anniversary Keepsake",
+        "url": "https://www.etsy.com/listing/4478633305/personalized-acacia-wood-cutting-board",
+        "category": "cutting_board",
+        "price": 74.9,
+        "currency": "USD",
+        "rank": 3,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 9,
+        "shop_sales": 6189,
+        "market_score": 56.53,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4533940021",
+        "title": "Bolivian Rosewood - 3/4\" Thick - Select a Size",
+        "url": "https://www.etsy.com/listing/4533940021/bolivian-rosewood-34-thick-select-a-size",
+        "category": "other_wood",
+        "price": 21.11,
+        "currency": "USD",
+        "rank": 9,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 14,
+        "shop_sales": 21769,
+        "market_score": 56.53,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4402035523",
+        "title": "Tamal Masa Spreading Board Mahogany with 1/8\u201d Arcylic Sheet",
+        "url": "https://www.etsy.com/listing/4402035523/tamal-masa-spreading-board",
+        "category": "other_wood",
+        "price": 124.99,
+        "currency": "USD",
+        "rank": 1,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 55,
+        "shop_sales": 690,
+        "market_score": 55.43,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1590439585",
+        "title": "Handmade Dough Bowl: Large and XL Carved Wooden Centerpiece for Thanksgiving Hosting Gift",
+        "url": "https://www.etsy.com/listing/1590439585/wooden-dough-bowl-homeware-extra-long",
+        "category": "bowls_trays",
+        "price": 42.22,
+        "currency": "USD",
+        "rank": 4,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 2,
+        "reviews_last_90d": 4,
+        "review_count": 322,
+        "shop_sales": 30566,
+        "market_score": 55.42,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1866444908",
+        "title": "Rustic Rectangular Vintage Wooden Riser, Farmhouse Decor, Kitchen Stand, Plant Stand, Scandinavian Bathroom Vanity Stand",
+        "url": "https://www.etsy.com/listing/1866444908/rustic-rectangular-vintage-wooden-riser",
+        "category": "bowls_trays",
+        "price": 57.9,
+        "currency": "USD",
+        "rank": 6,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 101,
+        "shop_sales": 1514,
+        "market_score": 55.33,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1760548584",
+        "title": "Walnut Solid Hardwood Unfinished for Crafts, DYI, Scroll Saw, Woodworking and Laser Engraving",
+        "url": "https://www.etsy.com/listing/1760548584/walnut-solid-hardwood-unfinished-for",
+        "category": "other_wood",
+        "price": 9.0,
+        "currency": "USD",
+        "rank": 4,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 60,
+        "shop_sales": 4409,
+        "market_score": 55.21,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1565904241",
+        "title": "hardwood furniture legs, oak, walnut, maple, mahogany, set of 4",
+        "url": "https://www.etsy.com/listing/1565904241/hardwood-furniture-legs-oak-walnut-maple",
+        "category": "other_wood",
+        "price": 60.0,
+        "currency": "USD",
+        "rank": 7,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 203,
+        "shop_sales": 2763,
+        "market_score": 55.21,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4355657597",
+        "title": "Butcher Block Wood Strips",
+        "url": "https://www.etsy.com/listing/4355657597/butcher-block-wood-strips",
+        "category": "cutting_board",
+        "price": 3.66,
+        "currency": "USD",
+        "rank": 1,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 3,
+        "reviews_last_90d": 3,
+        "review_count": 57,
+        "shop_sales": 21769,
+        "market_score": 55.01,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4493394427",
+        "title": "Custom Shelf Size 5/8\" Available in 6 Colors -Cut To Size Wood TFL Shelves For Fall Hosting Storage Organization-Custom Size Cabinet Shelf",
+        "url": "https://www.etsy.com/listing/4493394427/custom-shelf-size-58-available-in-6",
+        "category": "shelves_hooks",
+        "price": 16.49,
+        "currency": "USD",
+        "rank": 4,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 26,
+        "shop_sales": 4125,
+        "market_score": 54.7,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1759952397",
+        "title": "Personalized serving board for couple or family gift, cheese board with acacia wood & marble, engraved wedding gift,custom charcuterie board",
+        "url": "https://www.etsy.com/listing/1759952397/personalized-serving-board-for-couple-or",
+        "category": "cutting_board",
+        "price": 25.98,
+        "currency": "USD",
+        "rank": 27,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 562,
+        "shop_sales": 297531,
+        "market_score": 54.49,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4391906670",
+        "title": "Walnut Wood Kitchen Utensil Set, Handcrafted Natural Cooking Tool, Nontoxic, Plastic-Free, Safe for Nonstick Cookware, Kitchen Wedding Gift",
+        "url": "https://www.etsy.com/listing/4391906670/walnut-wood-kitchen-utensil-set",
+        "category": "kitchen_utensils",
+        "price": 12.99,
+        "currency": "USD",
+        "rank": 17,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 74,
+        "shop_sales": 4553,
+        "market_score": 53.86,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "690876592",
+        "title": "Personalized Military Flag Case, US Army Navy Burial Flag Box, Custom Veteran Display",
+        "url": "https://www.etsy.com/listing/690876592/officially-licensed-us-army-flag-display",
+        "category": "other_wood",
+        "price": 54.99,
+        "currency": "USD",
+        "rank": 17,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 0,
+        "shop_sales": 26676,
+        "market_score": 53.19,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4380280372",
+        "title": "Solid Wood Piano Coat Rack Shelf, Floating Shelf with Hooks, Modern Entryway Mudroom Organizer",
+        "url": "https://www.etsy.com/listing/4380280372/solid-wood-piano-coat-rack-with-shelf",
+        "category": "shelves_hooks",
+        "price": 74.2,
+        "currency": "USD",
+        "rank": 10,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 97,
+        "shop_sales": 2485,
+        "market_score": 53.14,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "4418723523",
+        "title": "Photo Booth Strip Frame, Solid Walnut or Teak Long Narrow Picture Frame for Travel Tickets, Maps & Pressed Flowers, Custom Mat",
+        "url": "https://www.etsy.com/listing/4418723523/solid-walnut-teak-wood-photobooth-strip",
+        "category": "frames",
+        "price": 30.9,
+        "currency": "USD",
+        "rank": 20,
+        "signals": "popular_now,bestseller_filter",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 93,
+        "shop_sales": 12745,
+        "market_score": 53.01,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1458068533",
+        "title": "Hardwood Quilt Hanger: Maine Made Cherry, Birch, Oak and Mahogany",
+        "url": "https://www.etsy.com/listing/1458068533/hardwood-quilt-hanger-maine-made-cherry",
+        "category": "other_wood",
+        "price": 45.9,
+        "currency": "USD",
+        "rank": 10,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 326,
+        "shop_sales": 5232,
+        "market_score": 52.5,
+        "makeable": true
+      },
+      {
+        "country": "us",
+        "listing_id": "1267819195",
+        "title": "Custom Teak Shower Tray | Self-Draining Soap Dish",
+        "url": "https://www.etsy.com/listing/1267819195/custom-teak-shower-tray-self-draining",
+        "category": "bowls_trays",
+        "price": 45.0,
+        "currency": "USD",
+        "rank": 3,
+        "signals": "bestseller",
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4,
+        "review_count": 78,
+        "shop_sales": 279,
+        "market_score": 52.31,
+        "makeable": true
+      }
+    ]
+  },
+  "ca": {
+    "listing_count": 0,
+    "product_types": [],
+    "top_listings": []
+  },
+  "wave1_makeable_shortlist": [
+    {
+      "category": "other_wood",
+      "combined_noise": 6373.43,
+      "us_noise": 6373.43,
+      "ca_noise": null,
+      "us_median_price": 37.5,
+      "ca_median_price": null,
+      "us_reviews_30d": 515,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Wood Rock Cairn Sculpture: Calming Decor for Home or Office Gift. Set of 7 Assorted Urban Reclaimed Hardwoods.",
+        "url": "https://www.etsy.com/listing/742928408/wood-rock-cairn-sculpture-calming-decor",
+        "price": 55.0,
+        "rank": 19,
+        "market_score": 51.63,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "cutting_board",
+      "combined_noise": 2549.75,
+      "us_noise": 2549.75,
+      "ca_noise": null,
+      "us_median_price": 45.0,
+      "ca_median_price": null,
+      "us_reviews_30d": 186,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Kiln-Dried Teak Slices: DIY Coasters, Trivets, Cutting Boards (4-20 inch)",
+        "url": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+        "price": 12.0,
+        "rank": 2,
+        "market_score": 58.33,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "shelves_hooks",
+      "combined_noise": 1177.06,
+      "us_noise": 1177.06,
+      "ca_noise": null,
+      "us_median_price": 67.2,
+      "ca_median_price": null,
+      "us_reviews_30d": 95,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Solid Wood Piano Coat Rack Shelf, Floating Shelf with Hooks, Modern Entryway Mudroom Organizer",
+        "url": "https://www.etsy.com/listing/4380280372/solid-wood-piano-coat-rack-with-shelf",
+        "price": 74.2,
+        "rank": 10,
+        "market_score": 53.14,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "bowls_trays",
+      "combined_noise": 928.91,
+      "us_noise": 928.91,
+      "ca_noise": null,
+      "us_median_price": 36.45,
+      "ca_median_price": null,
+      "us_reviews_30d": 66,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Rustic Rectangular Vintage Wooden Riser, Farmhouse Decor, Kitchen Stand, Plant Stand, Scandinavian Bathroom Vanity Stand",
+        "url": "https://www.etsy.com/listing/1866444908/rustic-rectangular-vintage-wooden-riser",
+        "price": 57.9,
+        "rank": 6,
+        "market_score": 55.33,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "frames",
+      "combined_noise": 779.55,
+      "us_noise": 779.55,
+      "ca_noise": null,
+      "us_median_price": 30.89,
+      "ca_median_price": null,
+      "us_reviews_30d": 60,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Solid Wood Picture Frame, Rustic Walnut Wood Teak Wood Photo Frame, Size from 4x6\" to 16x20\" , Hardwood Frame Anniversary Engagement Gift",
+        "url": "https://www.etsy.com/listing/1706547278/solid-wood-picture-frame-rustic-walnut",
+        "price": 29.9,
+        "rank": 16,
+        "market_score": 50.48,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "kitchen_utensils",
+      "combined_noise": 410.46,
+      "us_noise": 410.46,
+      "ca_noise": null,
+      "us_median_price": 51.0,
+      "ca_median_price": null,
+      "us_reviews_30d": 28,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Walnut Wood Kitchen Utensil Set, Handcrafted Natural Cooking Tool, Nontoxic, Plastic-Free, Safe for Nonstick Cookware, Kitchen Wedding Gift",
+        "url": "https://www.etsy.com/listing/4391906670/walnut-wood-kitchen-utensil-set",
+        "price": 12.99,
+        "rank": 17,
+        "market_score": 53.86,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    },
+    {
+      "category": "coasters_slices",
+      "combined_noise": 127.52,
+      "us_noise": 127.52,
+      "ca_noise": null,
+      "us_median_price": 39.95,
+      "ca_median_price": null,
+      "us_reviews_30d": 10,
+      "ca_reviews_30d": null,
+      "example_us": {
+        "title": "Rustic Wood Slices (11-12 inch): Wedding Centerpiece Set",
+        "url": "https://www.etsy.com/listing/295630253/rustic-wood-slices-11-12-inch-wedding",
+        "price": 36.0,
+        "rank": 16,
+        "market_score": 59.2,
+        "reviews_last_30d": 4,
+        "reviews_last_90d": 4
+      },
+      "example_ca": null
+    }
+  ],
+  "seller_intel": {
+    "products_with_ships_from": 39,
+    "shops_with_location": 346,
+    "ships_from_top": [
+      {
+        "origin": "California",
+        "listings": 15
+      },
+      {
+        "origin": "New Jersey",
+        "listings": 3
+      },
+      {
+        "origin": "Texas",
+        "listings": 3
+      },
+      {
+        "origin": "New York",
+        "listings": 2
+      },
+      {
+        "origin": "Florida",
+        "listings": 2
+      },
+      {
+        "origin": "Illinois",
+        "listings": 2
+      },
+      {
+        "origin": "Ohio",
+        "listings": 1
+      },
+      {
+        "origin": "Utah within 48 hours. Standard delivery takes 4\u20136 days.",
+        "listings": 1
+      },
+      {
+        "origin": "Arizona with love \ud83d\udc8c \u2014 carefully packaged and trackable for peace of mind.",
+        "listings": 1
+      },
+      {
+        "origin": "Utah within 48 hours",
+        "listings": 1
+      },
+      {
+        "origin": "Chattanooga, TN with tracking",
+        "listings": 1
+      },
+      {
+        "origin": "Toledo Ohio**",
+        "listings": 1
+      },
+      {
+        "origin": "Maryland",
+        "listings": 1
+      },
+      {
+        "origin": "Pennsylvania",
+        "listings": 1
+      },
+      {
+        "origin": "North Carolina",
+        "listings": 1
+      },
+      {
+        "origin": "Oklahoma",
+        "listings": 1
+      },
+      {
+        "origin": "the USA \u2022 Free shipping \u2022 No import fees for U.S. customers",
+        "listings": 1
+      },
+      {
+        "origin": "Colorado",
+        "listings": 1
+      }
+    ],
+    "shop_location_top": [
+      {
+        "location": "United States",
+        "shops": 49
+      },
+      {
+        "location": "T\u00fcrkiye",
+        "shops": 14
+      },
+      {
+        "location": "India",
+        "shops": 7
+      },
+      {
+        "location": "United Kingdom",
+        "shops": 6
+      },
+      {
+        "location": "Ukraine",
+        "shops": 5
+      },
+      {
+        "location": "Houston, Texas",
+        "shops": 4
+      },
+      {
+        "location": "Jaipur, India",
+        "shops": 4
+      },
+      {
+        "location": "Salt Lake, Utah",
+        "shops": 3
+      },
+      {
+        "location": "Los Angeles, California",
+        "shops": 3
+      },
+      {
+        "location": "Virginia, United States",
+        "shops": 3
+      },
+      {
+        "location": "New Jersey, United States",
+        "shops": 3
+      },
+      {
+        "location": "Australia",
+        "shops": 3
+      },
+      {
+        "location": "Chicago, Illinois",
+        "shops": 3
+      },
+      {
+        "location": "New York, United States",
+        "shops": 3
+      },
+      {
+        "location": "San Diego, California",
+        "shops": 3
+      },
+      {
+        "location": "Miami, Florida",
+        "shops": 2
+      },
+      {
+        "location": "Brooklyn, New York",
+        "shops": 2
+      },
+      {
+        "location": "Stafford, Texas",
+        "shops": 2
+      },
+      {
+        "location": "Texas, United States",
+        "shops": 2
+      },
+      {
+        "location": "Florida, United States",
+        "shops": 2
+      },
+      {
+        "location": "Murfreesboro, Tennessee",
+        "shops": 2
+      },
+      {
+        "location": "Toronto, Canada",
+        "shops": 2
+      },
+      {
+        "location": "Europe",
+        "shops": 2
+      },
+      {
+        "location": "Atlanta, Georgia",
+        "shops": 2
+      },
+      {
+        "location": "Greenville, South Carolina",
+        "shops": 2
+      },
+      {
+        "location": "Vietnam",
+        "shops": 2
+      },
+      {
+        "location": "Mississauga, Canada",
+        "shops": 1
+      },
+      {
+        "location": "Deerfield Beach, Florida",
+        "shops": 1
+      },
+      {
+        "location": "Vineland, New Jersey",
+        "shops": 1
+      },
+      {
+        "location": "Minster, Ohio",
+        "shops": 1
+      }
+    ]
+  },
+  "scoring_notes": "market_score weights: bestseller rank, badges, reviews_last_30d (heavy), reviews_last_90d, light lifetime reviews, shop sales. Exact unit sales are not public."
+}

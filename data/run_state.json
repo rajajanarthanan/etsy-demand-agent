@@ -1,0 +1,49 @@
+{
+  "summary_path": "/home/raj/Documents/projects/RAJ/portfolio/etsy-demand-agent/data/market_demand_summary.json",
+  "wave1": [
+    "other_wood",
+    "cutting_board",
+    "shelves_hooks",
+    "bowls_trays",
+    "frames",
+    "kitchen_utensils",
+    "coasters_slices"
+  ],
+  "harvest_enqueued": 1,
+  "countries": [
+    "gb"
+  ],
+  "pages": 1,
+  "keywords": [
+    "teak"
+  ],
+  "last_job_id": 1112,
+  "last_kind": "shop",
+  "last_country": "us",
+  "counts": {
+    "blocked": 1,
+    "done": 1097,
+    "failed": 4,
+    "pending": 10
+  },
+  "sessid": "etsy_us_1_f89094c281",
+  "smoke_search": 48,
+  "smoke_mode": "cursor_browser_mcp",
+  "egress_ip": "130.12.19.118",
+  "egress_country": "us",
+  "sticky": false,
+  "worker_exit": 1791897886.0103986,
+  "deep_enqueued_products": 404,
+  "harvest_rows": 864,
+  "limit": 0,
+  "smoke_signed_ca": true,
+  "profile": "Profile 9",
+  "user_data_dir": "/home/raj/.config/google-chrome",
+  "smoke_rebrowser_worker": true,
+  "job_id": 27,
+  "deep_countries": [
+    "us"
+  ],
+  "shop_location_backfill_enqueued": 322,
+  "shop_location_missing": 322
+}

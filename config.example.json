@@ -1,0 +1,9 @@
+{
+  "api_key": "PASTE_YOUR_SCRAPEOPS_API_KEY_HERE",
+  "dataimpulse": {
+    "login": "YOUR_DATAIMPULSE_LOGIN",
+    "password": "YOUR_DATAIMPULSE_PASSWORD",
+    "host": "gw.dataimpulse.com",
+    "port": 823
+  }
+}

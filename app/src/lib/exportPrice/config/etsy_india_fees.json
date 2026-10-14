@@ -1,0 +1,60 @@
+{
+  "marketplace": "etsy",
+  "seller_country": "IN",
+  "currency_payment_account": "INR",
+  "rule_version": "2026-10-05",
+  "effective_from": "2026-06-22",
+  "effective_to": null,
+  "retrieved_at": "2026-10-14",
+  "verification_status": "verified",
+  "sources": [
+    {
+      "title": "Etsy Fees & Payments Policy",
+      "url": "https://www.etsy.com/legal/fees/",
+      "retrieved_at": "2026-10-14",
+      "notes": "Listing $0.20; transaction 6.5% on item+shipping+gift wrap; Offsite Ads 12%/15%; currency conversion 2.5% when listing currency ≠ payment account currency. Last updated Oct 5, 2026."
+    },
+    {
+      "title": "What are Payment Processing Fees for Selling on Etsy?",
+      "url": "https://help.etsy.com/hc/en-us/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy",
+      "retrieved_at": "2026-10-14",
+      "notes": "India: 5% + 25 INR of total sale price (incl. shipping and applicable tax)."
+    },
+    {
+      "title": "How to Accept Payments as a Seller in India",
+      "url": "https://help.etsy.com/hc/en-us/articles/6742925359255-How-to-Accept-Payments-as-a-Seller-in-India",
+      "retrieved_at": "2026-10-14",
+      "notes": "Confirms Etsy Payments India processing fee 5% + 25 INR; Indian shops cannot accept domestic sales via Etsy Payments."
+    },
+    {
+      "title": "What is a Regulatory Operating Fee?",
+      "url": "https://help.etsy.com/hc/en-us/articles/1500011073202-What-is-a-Regulatory-Operating-Fee",
+      "retrieved_at": "2026-10-14",
+      "notes": "India regulatory operating fee listed as 0.05% on item price + shipping (+ gift wrap)."
+    },
+    {
+      "title": "What are the Fees and Taxes for Selling on Etsy?",
+      "url": "https://help.etsy.com/hc/en-us/articles/115014483627-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy",
+      "retrieved_at": "2026-10-14",
+      "notes": "Summarises fee types including regulatory operating fee for India."
+    }
+  ],
+  "fees": {
+    "listing_fee_usd": 0.2,
+    "transaction_fee_rate": 0.065,
+    "payment_processing_rate": 0.05,
+    "payment_processing_flat": { "amount": 25, "currency": "INR" },
+    "regulatory_operating_fee_rate": 0.0005,
+    "offsite_ads_rate_under_10k": 0.15,
+    "offsite_ads_rate_at_or_over_10k": 0.12,
+    "offsite_ads_cap_usd": 100,
+    "currency_conversion_fee_rate": 0.025,
+    "vat_gst_on_seller_fees_rate": 0.18,
+    "vat_gst_on_seller_fees_notes": "India GST 18% may be applied by Etsy on seller fees. Etsy Help indicates sellers with a valid tax ID on file may not be charged VAT/GST on fees — treat as configurable. GST paid on fees is typically an input tax credit (recoverable), not a permanent operating cost."
+  },
+  "assumptions": [
+    "Payment processing uses the published India Etsy Payments rate (5% + ₹25), not the India-domestic Razorpay collection fee (3% + ₹10), because Indian shops cannot accept domestic Etsy Payments sales.",
+    "Listing fee is optionally amortised per modelled sale; default engine includes one listing fee allocation per unit sold.",
+    "Offsite Ads are optional and applied only when the user enables them."
+  ]
+}

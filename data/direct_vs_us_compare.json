@@ -1,0 +1,11 @@
+{
+  "direct_unique": 287,
+  "us_unique": 406,
+  "overlap": 214,
+  "overlap_pct_of_direct": 74.6,
+  "overlap_pct_of_us": 52.7,
+  "us_p1_in_direct_pct": 70.1,
+  "fx_median_inr_per_usd": 1.0,
+  "direct_median_usd": 47.66,
+  "us_median_usd": 42.0
+}

@@ -1,0 +1,48 @@
+{
+  "destination": "GB",
+  "name": "United Kingdom",
+  "currency": "GBP",
+  "shipping_mode_required": "DDP",
+  "rule_version": "2026-10-14-provisional",
+  "retrieved_at": "2026-10-14",
+  "verification_status": "provisional",
+  "sources": [
+    {
+      "title": "GOV.UK — Tax and customs for goods sent from abroad",
+      "url": "https://www.gov.uk/goods-sent-from-abroad",
+      "retrieved_at": "2026-10-14",
+      "notes": "UK import VAT/duty framework for goods from abroad."
+    },
+    {
+      "title": "Trade Tariff (GOV.UK)",
+      "url": "https://www.trade-tariff.service.gov.uk/find_commodity",
+      "retrieved_at": "2026-10-14",
+      "notes": "Official UK commodity / duty lookup."
+    }
+  ],
+  "import_taxes": {
+    "type": "import_vat",
+    "collected_by": "varies",
+    "default_rate": 0.2,
+    "default_rate_verification": "provisional",
+    "notes": "Standard UK VAT is commonly 20% (verify current GOV.UK rate and whether marketplace collects IOSS/VAT on the sale). Marked provisional until operator confirms collection path for the shipment."
+  },
+  "duty": {
+    "requires_hs_code": true,
+    "default_ad_valorem_rate": null,
+    "additional_tariffs": [],
+    "notes": "Supply verified Trade Tariff duty for the commodity code."
+  },
+  "clearance_and_ddp": {
+    "clearance_fee_default": null,
+    "ddp_service_default": null,
+    "notes": "Requires carrier/broker quote."
+  },
+  "human_approval_required_when": [
+    "hs_code_uncertain",
+    "duty_rate_unverified",
+    "vat_path_unverified",
+    "freight_unverified",
+    "material_compliance_uncertain"
+  ]
+}

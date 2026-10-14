@@ -1,0 +1,450 @@
+{
+  "method": "Etsy US locale, bestseller filter, keywords: teak, acacia, hardwood, mahogany, rubber wood",
+  "scraped_listings": 240,
+  "note": "Rubber wood query pulls rubber stamps/noise \u2014 discount that keyword for furniture. Teak+acacia are cleanest for your mill.",
+  "wave1_focus": [
+    "Personalized cutting / charcuterie board",
+    "Kitchen utensil set (5\u201310 pcs)",
+    "Salad servers / spoon spatula pair",
+    "Wood riser / pedestal / vanity stand",
+    "Teak / hardwood slices & coaster blanks",
+    "Valet tray / bedside catchall"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Personalized cutting / charcuterie board",
+      "species": "Acacia (primary), Teak (premium)",
+      "why": "Highest bestseller density among makeable SKUs; gift + personalization converts",
+      "price_band_usd": "$25\u2013$65",
+      "ship": "Parcel, easy first sales",
+      "priority": "Wave 1",
+      "comp_count": 23,
+      "comp_median_usd": 45.0,
+      "example_comps": [
+        {
+          "title": "kiln dried teak slices diy coasters",
+          "shop": "ExoticLiveEdgeSlabs",
+          "price": 12.0,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+          "bestseller": true
+        },
+        {
+          "title": "kiln dried teak slices diy coasters",
+          "shop": "ExoticLiveEdgeSlabs",
+          "price": 12.0,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+          "bestseller": true
+        },
+        {
+          "title": "kiln dried teak slices diy coasters",
+          "shop": "ExoticLiveEdgeSlabs",
+          "price": 12.0,
+          "keyword": "rubber wood",
+          "href": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+          "bestseller": true
+        },
+        {
+          "title": "personalised master of steak cutting",
+          "shop": "GiftsInaJiffy",
+          "price": 20.74,
+          "keyword": "acacia",
+          "href": "https://www.etsy.com/listing/4344914293/personalised-master-of-steak-cutting",
+          "bestseller": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kitchen utensil set (5\u201310 pcs)",
+      "species": "Teak or Acacia",
+      "why": "Many bestsellers at $45\u2013$60; top comps ship from US with China partners \u2014 India genuine wood is a story edge",
+      "price_band_usd": "$35\u2013$60",
+      "ship": "Parcel",
+      "priority": "Wave 1",
+      "comp_count": 11,
+      "comp_median_usd": 59.5,
+      "example_comps": [
+        {
+          "title": "walnut wood kitchen utensil set",
+          "shop": "SaltandYork",
+          "price": 12.99,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4391906670/walnut-wood-kitchen-utensil-set",
+          "bestseller": true
+        },
+        {
+          "title": "handmade bamboo gong fu cha bundle 1 tea",
+          "shop": "MAYTEAWARE",
+          "price": 16.79,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4474453565/handmade-bamboo-gong-fu-cha-bundle-1-tea",
+          "bestseller": true
+        },
+        {
+          "title": "acacia wood cooking utensils set 6 piece",
+          "shop": "WoodCraftUtensils",
+          "price": 44.0,
+          "keyword": "acacia",
+          "href": "https://www.etsy.com/listing/4555207097/acacia-wood-cooking-utensils-set-6-piece",
+          "bestseller": true
+        },
+        {
+          "title": "teak wood cooking utensils set 10 piece",
+          "shop": "DaduBadu",
+          "price": 49.99,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/1902813083/teak-wood-cooking-utensils-set-10-piece",
+          "bestseller": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Salad servers / spoon spatula pair",
+      "species": "Teak / Acacia",
+      "why": "Lower SKU complexity than full set; upsell with boards",
+      "price_band_usd": "$18\u2013$35",
+      "ship": "Parcel",
+      "priority": "Wave 1",
+      "comp_count": 4,
+      "comp_median_usd": 72.91,
+      "example_comps": [
+        {
+          "title": "teak kitchen utensil set wooden spoons",
+          "shop": "WoodenhouseUSA",
+          "price": 59.99,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/1818688703/teak-kitchen-utensil-set-wooden-spoons",
+          "bestseller": true
+        },
+        {
+          "title": "handmade acacia spoons set of 8",
+          "shop": "woodandwondersarts",
+          "price": 72.91,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4524659440/handmade-acacia-spoons-set-of-8",
+          "bestseller": true
+        },
+        {
+          "title": "handmade acacia spoons set of 8",
+          "shop": "woodandwondersarts",
+          "price": 72.91,
+          "keyword": "acacia",
+          "href": "https://www.etsy.com/listing/4524659440/handmade-acacia-spoons-set-of-8",
+          "bestseller": true
+        },
+        {
+          "title": "handmade acacia spoons set of 8",
+          "shop": "woodandwondersarts",
+          "price": 72.91,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/4524659440/handmade-acacia-spoons-set-of-8",
+          "bestseller": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Wood riser / pedestal / vanity stand",
+      "species": "Teak / Acacia / Hardwood look",
+      "why": "Popular-now + bestseller overlap; farmhouse decor demand; simple mill work",
+      "price_band_usd": "$35\u2013$75",
+      "ship": "Parcel",
+      "priority": "Wave 1",
+      "comp_count": 4,
+      "comp_median_usd": 170.0,
+      "example_comps": [
+        {
+          "title": "walnut wood riser perfect for elevating",
+          "shop": "RusticAcresWoodshop",
+          "price": 35.0,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/1678469969/walnut-wood-riser-perfect-for-elevating",
+          "bestseller": true
+        },
+        {
+          "title": "hardwood turntable riser multiple lumber",
+          "shop": "PumaWoodworking",
+          "price": 170.0,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/4431155358/hardwood-turntable-riser-multiple-lumber",
+          "bestseller": true
+        },
+        {
+          "title": "hardwood turntable riser multiple lumber",
+          "shop": "PumaWoodworking",
+          "price": 170.0,
+          "keyword": "mahogany",
+          "href": "https://www.etsy.com/listing/4431155358/hardwood-turntable-riser-multiple-lumber",
+          "bestseller": true
+        },
+        {
+          "title": "rustic rectangular vintage wooden riser",
+          "shop": "ProjectKalaaStudio",
+          "price": 72.5,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/1866444908/rustic-rectangular-vintage-wooden-riser",
+          "bestseller": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Teak / hardwood slices & coaster blanks",
+      "species": "Teak (kiln-dried slices)",
+      "why": "Clear bestseller (DIY coasters); uses slab offcuts; high margin small parcel",
+      "price_band_usd": "$10\u2013$25",
+      "ship": "Light parcel",
+      "priority": "Wave 1",
+      "comp_count": 4,
+      "comp_median_usd": 12.0,
+      "example_comps": [
+        {
+          "title": "kiln dried teak slices diy coasters",
+          "shop": "ExoticLiveEdgeSlabs",
+          "price": 12.0,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+          "bestseller": true
+        },
+        {
+          "title": "kiln dried teak slices diy coasters",
+          "shop": "ExoticLiveEdgeSlabs",
+          "price": 12.0,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+          "bestseller": true
+        },
+        {
+          "title": "kiln dried teak slices diy coasters",
+          "shop": "ExoticLiveEdgeSlabs",
+          "price": 12.0,
+          "keyword": "rubber wood",
+          "href": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+          "bestseller": true
+        },
+        {
+          "title": "kiln dried wood slices 9 10 rustic",
+          "shop": "CraftKindleCo",
+          "price": 28.0,
+          "keyword": "rubber wood",
+          "href": "https://www.etsy.com/listing/699388334/kiln-dried-wood-slices-9-10-rustic",
+          "bestseller": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Raw live-edge slab / lumber blank",
+      "species": "Teak, Acacia, Mahogany-look",
+      "why": "You already saw sales; makers buy unfinished; matches mill inventory",
+      "price_band_usd": "$30\u2013$150+ (by size)",
+      "ship": "Heavy parcel / freight for large",
+      "priority": "Wave 2",
+      "comp_count": 29,
+      "comp_median_usd": 44.95,
+      "example_comps": [
+        {
+          "title": "natural wood photo and card holder solid",
+          "shop": "TimberRebirth",
+          "price": 1.31,
+          "keyword": "mahogany",
+          "href": "https://www.etsy.com/listing/493150442/natural-wood-photo-and-card-holder-solid",
+          "bestseller": true
+        },
+        {
+          "title": "1 black walnut lumber kiln dried steamed",
+          "shop": "BlackSheepWoodStudio",
+          "price": 11.99,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/4371987815/1-black-walnut-lumber-kiln-dried-steamed",
+          "bestseller": true
+        },
+        {
+          "title": "1 black walnut lumber kiln dried steamed",
+          "shop": "BlackSheepWoodStudio",
+          "price": 11.99,
+          "keyword": "rubber wood",
+          "href": "https://www.etsy.com/listing/4371987815/1-black-walnut-lumber-kiln-dried-steamed",
+          "bestseller": true
+        },
+        {
+          "title": "kiln dried teak slices diy coasters",
+          "shop": "ExoticLiveEdgeSlabs",
+          "price": 12.0,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4296923900/kiln-dried-teak-slices-diy-coasters",
+          "bestseller": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Valet tray / bedside catchall",
+      "species": "Acacia",
+      "why": "Gift-friendly, small, engraving upsell; shows in acacia bestsellers",
+      "price_band_usd": "$25\u2013$45",
+      "ship": "Parcel",
+      "priority": "Wave 1",
+      "comp_count": 13,
+      "comp_median_usd": 41.03,
+      "example_comps": [
+        {
+          "title": "acacia pumpkin bowl handmade pumpkin",
+          "shop": "WoodwareandCo",
+          "price": 9.99,
+          "keyword": "acacia",
+          "href": "https://www.etsy.com/listing/4382622546/acacia-pumpkin-bowl-handmade-pumpkin",
+          "bestseller": true
+        },
+        {
+          "title": "black walnut oak hardwood trays",
+          "shop": "RedOakRoad",
+          "price": 21.6,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/1490453770/black-walnut-oak-hardwood-trays",
+          "bestseller": true
+        },
+        {
+          "title": "handmade bamboo tea tray with water",
+          "shop": "PinkLotusTeaHouse",
+          "price": 24.5,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4320319076/handmade-bamboo-tea-tray-with-water",
+          "bestseller": true
+        },
+        {
+          "title": "walnut wood riser perfect for elevating",
+          "shop": "RusticAcresWoodshop",
+          "price": 35.0,
+          "keyword": "hardwood",
+          "href": "https://www.etsy.com/listing/1678469969/walnut-wood-riser-perfect-for-elevating",
+          "bestseller": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Floating shelf / wall shelf",
+      "species": "Acacia / Teak / Hardwood",
+      "why": "Steady across hardwood/mahogany searches; custom sizes sell",
+      "price_band_usd": "$35\u2013$90",
+      "ship": "Parcel (size-limited)",
+      "priority": "Wave 2",
+      "comp_count": 24,
+      "comp_median_usd": 53.84,
+      "example_comps": [
+        {
+          "title": "custom shelf size 58 available in 6",
+          "shop": "CustomshelfShop",
+          "price": 16.49,
+          "keyword": "mahogany",
+          "href": "https://www.etsy.com/listing/4493394427/custom-shelf-size-58-available-in-6",
+          "bestseller": true
+        },
+        {
+          "title": "hand carved wooden multipurpose keepsake",
+          "shop": "BazaardiStoreShop",
+          "price": 32.69,
+          "keyword": "mahogany",
+          "href": "https://www.etsy.com/listing/1840346728/hand-carved-wooden-multipurpose-keepsake",
+          "bestseller": true
+        },
+        {
+          "title": "custom acacia valet tray wooden bedside",
+          "shop": "GiftsFromHH",
+          "price": 35.9,
+          "keyword": "acacia",
+          "href": "https://www.etsy.com/listing/4531972142/custom-acacia-valet-tray-wooden-bedside",
+          "bestseller": true
+        },
+        {
+          "title": "luxury xl dark wood stash box precision",
+          "shop": "TheBzz",
+          "price": 87.88,
+          "keyword": "acacia",
+          "href": "https://www.etsy.com/listing/4515967691/luxury-xl-dark-wood-stash-box-precision",
+          "bestseller": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Teak bath / shower tray or bath stool accessory",
+      "species": "Teak",
+      "why": "Teak bestseller niche (shower tray ~$45); spa aesthetic; teak natural water resistance story",
+      "price_band_usd": "$40\u2013$90",
+      "ship": "Parcel",
+      "priority": "Wave 2",
+      "comp_count": 2,
+      "comp_median_usd": 159.2,
+      "example_comps": [
+        {
+          "title": "custom teak shower tray self draining",
+          "shop": "SSullivanWoodworks",
+          "price": 45.0,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/1267819195/custom-teak-shower-tray-self-draining",
+          "bestseller": true
+        },
+        {
+          "title": "reclaimed teak wood counter stool round",
+          "shop": "ModernKarigar",
+          "price": 159.2,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/1801114269/reclaimed-teak-wood-counter-stool-round",
+          "bestseller": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Teak door / room divider OR narrow console",
+      "species": "Teak (reclaimed/plantation)",
+      "why": "High ticket; India shops already sell consoles/doors; fewer units but big revenue; defer until Wave 1 converts",
+      "price_band_usd": "$150\u2013$400+",
+      "ship": "Freight / crate",
+      "priority": "Wave 2\u20133",
+      "comp_count": 6,
+      "comp_median_usd": 190.0,
+      "example_comps": [
+        {
+          "title": "walnut wooden door stopper handmade",
+          "shop": "GracePartyDesign",
+          "price": 11.5,
+          "keyword": "rubber wood",
+          "href": "https://www.etsy.com/listing/4522185360/walnut-wooden-door-stopper-handmade",
+          "bestseller": true
+        },
+        {
+          "title": "hand carved oriental wooden room divider",
+          "shop": "CozyyyHomestead",
+          "price": 190.0,
+          "keyword": "acacia",
+          "href": "https://www.etsy.com/listing/4560795521/hand-carved-oriental-wooden-room-divider",
+          "bestseller": true
+        },
+        {
+          "title": "hand carved oriental wooden room divider",
+          "shop": "CozyyyHomestead",
+          "price": 190.0,
+          "keyword": "mahogany",
+          "href": "https://www.etsy.com/listing/4560795521/hand-carved-oriental-wooden-room-divider",
+          "bestseller": true
+        },
+        {
+          "title": "reclaimed teakwood console table narrow",
+          "shop": "ModernKarigar",
+          "price": 335.2,
+          "keyword": "teak",
+          "href": "https://www.etsy.com/listing/4503599044/reclaimed-teakwood-console-table-narrow",
+          "bestseller": true
+        }
+      ]
+    }
+  ],
+  "competitive_insight": "Top teak utensil bestseller (DaduBadu) ships from USA with China production partner; buyers question authenticity \u2014 genuine India teak/acacia mill story is a conversion lever."
+}
